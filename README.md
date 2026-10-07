@@ -1,59 +1,85 @@
+<div align="center">
+
 # Hola, soy Franco 👋
 
 ### Desarrollador Web
 
-Soy Analista Programador enfocado en el desarrollo de aplicaciones web.
+Analista Programador enfocado en el desarrollo de aplicaciones web.
 
-Actualmente trabajo y desarrollo proyectos utilizando tecnologías como PHP, MySQL, JavaScript, HTML y CSS, mientras continúo incorporando herramientas y tecnologías como React, Astro y Tailwind CSS.
+Actualmente trabajo con tecnologías web como **PHP, JavaScript, MySQL, HTML y CSS**, mientras continúo incorporando **React, Astro y Tailwind CSS** a mis proyectos.
 
-## Tecnologías
+<br>
 
-**Lenguajes y desarrollo web**
+<a href="TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* SQL
+</div>
 
-**Frameworks y herramientas**
+---
 
-* React
-* Astro
-* Tailwind CSS
-* Node.js
-* Git
-* GitHub
+## 🛠️ Tecnologías
 
-## Proyectos
+### Frontend
 
-### Sistema de Gestión para Taller Mecánico
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="45" alt="Astro">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS">
+</p>
 
-Aplicación web para la gestión de clientes, vehículos y órdenes de trabajo de un taller mecánico.
+### Backend y Base de Datos
 
-**Tecnologías:** PHP, MySQL, HTML, CSS, JavaScript
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL">
+</p>
 
-[Ver proyecto](https://github.com/FrancoScript/auto-registro)
+### Herramientas
 
-### Sistema de Postulaciones
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub">
+</p>
 
-Sistema web desarrollado durante mi práctica profesional para gestionar procesos de postulación.
+---
 
-**Tecnologías:** HTML, CSS, JavaScript, Node.js, MySQL
+## 📚 Actualmente aprendiendo
 
-### Landing Web para Negocios
+* ⚛️ React
+* 🔧 Desarrollo Full Stack
+* 🧩 Mejores prácticas y arquitectura para aplicaciones web
 
-Plantilla web orientada a restaurantes, cafeterías y otros negocios locales, con menú, carrito de compras y pedidos mediante WhatsApp.
+---
 
-**Tecnologías:** HTML, CSS, JavaScript
+## 🎯 En qué estoy trabajando
 
-## Actualmente aprendiendo
+Actualmente estoy desarrollando proyectos personales para seguir fortaleciendo mis conocimientos de **desarrollo web Full Stack**, especialmente en PHP, JavaScript, bases de datos y React.
 
-* React
-* Desarrollo Full Stack
-* Mejores prácticas para el desarrollo de aplicaciones web
+---
 
-## Contacto
+## 📫 Contacto
 
-* LinkedIn: [Mi perfil de LinkedIn](TU_LINKEDIN)
-* Email: TU_EMAIL
+<div align="center">
+
+<a href="TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+**Desarrollador Web · Analista Programador**
+
+</div>
